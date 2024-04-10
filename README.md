@@ -5,9 +5,9 @@ I don't really know what I'm doing
 I hope I can make it work
 
 TODO:
-- [] User Interface (website, html + css)
-- [] Stock Market Sim: Prices change over time and based on who's buying and selling
-- [] Databases
-- [] Account/Saved Porfolio?
-- [] Save Stock Market data
-- [] Chat?
+- [ ] User Interface (website, html + css)
+- [ ] Stock Market Sim: Prices change over time and based on who's buying and selling
+- [ ] Databases
+- [ ] Account/Saved Porfolio?
+- [ ] Save Stock Market data
+- [ ] Chat?
