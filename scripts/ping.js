@@ -48,14 +48,14 @@ window.onload = function() {
     context = board.getContext("2d") // used for drawing on the board
 
     // draw initial player1
-    context.fillStyle = "green";
+    context.fillStyle = "red";
     context.fillRect(player1.x, player1.y, player1.width, player1.height);
 
     // draw initial player2
     context.fillRect(player2.x, player2.y, player2.width, player2.height);
 
     // draw initial ball
-    context.fillStyle = "red";
+    context.fillStyle = "white";
     context.fillRect(ball.x, ball.y, ball.width, ball.height);
 
     requestAnimationFrame(update);
@@ -111,6 +111,7 @@ function update() {
     context.fillRect(player2.x, player2.y, player2.width, player2.height);
 
     // draw ball
+    context.fillStyle = "white";
     context.fillRect(ball.x, ball.y, ball.width, ball.height);
 
     // draw centerline

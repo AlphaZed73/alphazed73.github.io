@@ -3,18 +3,28 @@ Color Palette
 
 #1c1c1c
 #daddd8
-#757761
+#707070
 #fe5f00
 #96031a
 */
 
 body {
     margin: 0px;
-    background-color: #1c1c1c;
+    background-color: #707070;
     color: #daddd8;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 
-h1 {
-    text-align: center;
+a {
+    color: #fe5f00;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    letter-spacing: normal;
+    transition: letter-spacing 0.5s;
+}
+
+a:hover {
+    letter-spacing: 2px;
 }
