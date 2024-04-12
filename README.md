@@ -6,3 +6,7 @@ Tucker's here!
 Current list:
 
 - Ping
+- rock paper scissors
+- snake
+- random chance game
+- yes or no
