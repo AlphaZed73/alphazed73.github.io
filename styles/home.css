@@ -1,0 +1,20 @@
+/*
+Color Palette
+
+#1c1c1c
+#daddd8
+#757761
+#fe5f00
+#96031a
+*/
+
+body {
+    margin: 0px;
+    background-color: #1c1c1c;
+    color: #daddd8;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
