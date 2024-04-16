@@ -3,7 +3,7 @@ let board;
 let boardWidth = 720;
 let boardHeight = 720;
 let context;
-let bounceMultiplier = 1.1;
+let bounceMultiplier = 1;
 
 // player variables
 let playerWidth = 12;

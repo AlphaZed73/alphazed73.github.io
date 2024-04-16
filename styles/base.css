@@ -25,6 +25,14 @@ a {
     transition: letter-spacing 0.5s;
 }
 
+.link-home {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    padding: 10px;
+    font-size: 48px;
+}
+
 a:hover {
     letter-spacing: 2px;
 }
