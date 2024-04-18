@@ -16,6 +16,11 @@ body {
     text-align: center;
 }
 
+#game-list {
+    display: flex;
+    flex-direction: column;
+}
+
 a {
     color: #fe5f00;
     font-weight: bold;
